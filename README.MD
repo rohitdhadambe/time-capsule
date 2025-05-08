@@ -132,6 +132,6 @@ For this project, we've used a single merge strategy:
 2. Open a pull request for review
 3. Use squash merges to keep Git history clean and readable
 
-## License
 
+## License
 This project is licensed under the MIT License.
